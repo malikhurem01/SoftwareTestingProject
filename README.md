@@ -1,18 +1,23 @@
-## Getting Started
+Test Automation with Java and Selenium
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Web test automation example project using Visual Studio Code, Java, JUNIT, Selenium and Page Object Model (POM)
 
-## Folder Structure
+Test Subject
+www.genelec.ba is a test subject for no particular reason. It covers all necessary features that could be and must be tested.
 
-The workspace contains two folders by default, where:
+Libraries and Frameworks
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Selenium - Web automation
+JUnit - Test execution
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Tools
+ChromeDriver version 108
+Visual Studio Code
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Programming Language
+Java
 
-## Dependency Management
+References to Selenium JAR files have been added to Microsoft Visual Studio Code and later on imported into .java files to be used. 
+In order to execute tests, navigate to test section of Visual Studio Code and execute tests with JUnit. Tests can be manually executed one by one, or by TEST SUITES. 
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Business Inquiries: 200302051@student.ius.edu.ba | 200302052@student.ius.edu.ba
